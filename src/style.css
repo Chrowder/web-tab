@@ -1,0 +1,21 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  --primary-color: #1681ff;
+  --bg-color: #f1f0f5;
+  --active-bg-color: rgba(24, 144, 255, 0.1);
+  --separator-color: rgba(255, 255, 255, 0.1);
+  --alpha-color: 0, 0, 0;
+  --side-bar-color: 233, 233, 233;
+  --side-bar-background: 34, 34, 34;
+  --sub-color: #939393;
+  --active-color: 32, 129, 255;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
